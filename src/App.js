@@ -1,7 +1,8 @@
 import "./App.css";
+import Navigation from "./components/Navigation";
 
 function App() {
-  return <h2>Animated Navigation</h2>;
+  return <Navigation />;
 }
 
 export default App;
